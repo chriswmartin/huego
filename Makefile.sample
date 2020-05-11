@@ -1,0 +1,5 @@
+install:
+	go install
+
+run:
+	USER="[your hue user id]" IPADDRESS="[hue bridge ip address]" go run huego.go
