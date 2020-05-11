@@ -15,6 +15,7 @@ var USER string // get user string here: https://developers.meethue.com/develop/
 var IPADDRESS string // the IP address of your hue bridge
 
 // add your group ID mappings here
+// curl http://[ip]/api/[username]/groups
 var All int = 0
 var DiningRoom int = 1
 var Bedroom int = 3

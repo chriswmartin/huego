@@ -1,4 +1,4 @@
-# huego
+# HueGo
 Phillips Hue API in Go
 
 ## usage
